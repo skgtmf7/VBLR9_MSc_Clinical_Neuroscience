@@ -25,4 +25,6 @@ This repository contains all of the analysis scripts used for my MSc project (20
 
 ## Shell script: used to run R enrichment analyses on HPC
 
-Working directories and file paths within each script will need to be edited to match local environment before running.
+
+
+Note: working directories and file paths within each script will need to be edited to match local environment before running.
