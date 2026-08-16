@@ -3,6 +3,8 @@ Integrating Genomic and Epigenomic Analyses to Investigate Mechanisms Underlying
 
 This repository contains all of the analysis scripts used for my MSc project (2025/2026)
 
+Note: working directories and file paths within each script will need to be edited to match local environment before running.
+
 1. ## mQTL clumping
    Clean mQTL datasets
    Clump mQTLs to account for linkage disequilibrium (LD) using PLINK2 (MHC region clumped separately)
@@ -27,4 +29,3 @@ This repository contains all of the analysis scripts used for my MSc project (20
 
 
 
-Note: working directories and file paths within each script will need to be edited to match local environment before running.
