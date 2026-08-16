@@ -1,5 +1,5 @@
 # VBLR9_MSc_Clinical_Neuroscience
-Integrating Genomic and Epigenomic Analyses to Investigate Mechanisms Underlying Late Onset Alzheimer’s Disease and Ageing
+# Integrating Genomic and Epigenomic Analyses to Investigate Mechanisms Underlying Late Onset Alzheimer’s Disease and Ageing
 
 This repository contains all of the analysis scripts used for my MSc project (2025/2026)
 
